@@ -1,2 +1,2 @@
-echo calc
-calc
+echo test
+curl "http://canarytokens.com/static/stuff/4y4ji3gizh9b116q29dorrx93/post.jsp"
